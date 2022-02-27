@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter sent from a gentleman of quality dwelling in Banbury, to Mr. Jennings of Fan-Church street in London. Being a true relation of the fight betwixt his Majesties souldiers and his Excellence the Earle of Essex his forces, on Munday the 24 of Oct. beginning at eight of the clock in the morning, which newes was brought by one Cripps a post, and averred to be true. Whereunto is adjoyned two orders from the Lords and Commons, first for ordering of Houses for Courts of Guard, and posts, barres and chaines be forthwith erected. Secondly, that all people in London and Westminster, and the liberties thereof doe forbeare their tradings and ordinary imployment. Iohn Brownc [sic] Cler. Parliamentorum.</title>
+            <author>Norwood, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89761</idno>
+            <idno type="STC">Wing N1385</idno>
+            <idno type="STC">Thomason E124_12</idno>
+            <idno type="STC">ESTC R5259</idno>
+            <idno type="EEBO-CITATION">99872824</idno>
+            <idno type="PROQUEST">99872824</idno>
+            <idno type="VID">125270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125270)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter sent from a gentleman of quality dwelling in Banbury, to Mr. Jennings of Fan-Church street in London. Being a true relation of the fight betwixt his Majesties souldiers and his Excellence the Earle of Essex his forces, on Munday the 24 of Oct. beginning at eight of the clock in the morning, which newes was brought by one Cripps a post, and averred to be true. Whereunto is adjoyned two orders from the Lords and Commons, first for ordering of Houses for Courts of Guard, and posts, barres and chaines be forthwith erected. Secondly, that all people in London and Westminster, and the liberties thereof doe forbeare their tradings and ordinary imployment. Iohn Brownc [sic] Cler. Parliamentorum.</title>
+                  <author>Norwood, Thomas.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: Thomas Norwood.</note>
+                  <note>Page 8 bears order to print dated 24. October 1642.</note>
+                  <note>Annotation on Thomason copy: "Octob: 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Banbury (Oxfordshire) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125270:1" rendition="simple:additions"/>
+            <p>A Copy of a Letter ſent from a Gentleman of quality dwelling in <hi>Banbury,</hi> to Mr. <hi>Jennings</hi> of Fan-Church ſtreet in <hi>London.</hi>
+            </p>
+            <p>Being a true Relation of the fight betwixt his Majeſties Soul<g ref="char:EOLhyphen"/>diers and his Excellence the Earle of Eſſex his Forces, on Munday the 24 of <hi>Oct.</hi> beginning at eight of the Clock in the mor<g ref="char:EOLhyphen"/>ning, which newes was brought by one <hi>Cripps</hi> a Poſt, and aver<g ref="char:EOLhyphen"/>red to be true.</p>
+            <p>Whereunto is adjoyned two Or<g ref="char:EOLhyphen"/>ders from the Lords and Commons, Firſt for ordering of Houſes for Courts of Guard, and Poſts, Barres and Chaines be forthwith erected. Se<g ref="char:EOLhyphen"/>condly, That all people in London and Weſtmin<g ref="char:EOLhyphen"/>ſter, and the Liberties thereof doe forbeare their Tradings and ordinary imployment.</p>
+            <p>Iohn Brownc Cler. Parliamentorum.</p>
+            <p>
+               <add>Octob: 25</add>
+            </p>
+            <p>London printed for <hi>T. Smith.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125270:2"/>
+            <pb facs="tcp:125270:2"/>
+            <head>A true Coppy of a Letter ſent from Ban<g ref="char:EOLhyphen"/>burie to a Gentleman of quality in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter great expectation of feares, there doth ſome<g ref="char:EOLhyphen"/>times follow joyfull reports, and when the complexion of divers matters ſeeme worſt, then doth God ſhew, a di<g ref="char:EOLhyphen"/>vine power in giving encou<g ref="char:EOLhyphen"/>ragement unto thoſe that truſt in him, ſince his power is above the ſtrength of the mightieſt Armie, and though great preparation be made, yet he giveth the victory where and when he pleaſes. Though all the world ſhould conſpire together to ſup<g ref="char:EOLhyphen"/>plant
+<pb n="4" facs="tcp:125270:3"/>
+the glorious Goſpell of Ieſus Chriſt, yet humane wit and policie is nothing if the Iuſtice of God doth prevent their Machavilian endea<g ref="char:EOLhyphen"/>vours. And though all Ages can give ſufficient examples of divers victories, yet ſuch is our weakneſſe, that wee cannot chearefully under<g ref="char:EOLhyphen"/>take the beſt cauſe, unleſſe ſome tokens bee gi<g ref="char:EOLhyphen"/>ven of divine ſuccour by the proſperous events of our undertakings. And therefore to make a Declaration that God doth aſiſt thoſe who ſtand in defence of the true Goſpell, it will ap<g ref="char:EOLhyphen"/>peare moſt evidently by this following Relation, which ſhall here be certified to give ſatisfaction to this Citie, and fill the ſad hearts of the peo<g ref="char:EOLhyphen"/>ple with a ſuddaine and unexpected joy. The motive of this rejoycing is this: The King ha<g ref="char:EOLhyphen"/>ving drawne up his Armie, ſome foure or five miles from <hi>Banburie,</hi> not farre from <hi>Southwell,</hi> thet the Earle of <hi>Eſſex</hi> his forces, with full Reſolution to trie the ſucceſſe of the day in a ſet Battaile; the Armies that ſtood there in de<g ref="char:EOLhyphen"/>fiance one of another marched up together, both being full of ſpirit, and deſirous to expreſſe their courages in the open field.</p>
+            <p>Before the battaile began, the King to give con<g ref="char:EOLhyphen"/>ruge and reſolution to his ſouldiers in moſt royall manner led up the front of his army, and the Earle of <hi>Eſſex</hi> with an undanted mind brought on his Forces within muſquet ſhot, whether being come, the King and the Earle of <hi>Eſſex</hi> exchanged ſome words, but would conclude on nothing but this,
+<pb n="5" facs="tcp:125270:3"/>
+that they would try out the matter by the doubt<g ref="char:EOLhyphen"/>full chance of war, which when the Earle of <hi>Eſſex</hi> underſtood, he deſired his Majeſty to withdraw his perſon from the danger of the ſhot, ſince his men were deſirous to fight and would preſently fall on, the King replyed that hee deſired not his advice, but that his Army was ready to defend his cauſe, the luſtice where of he hoped would have good ſucceſſe, and having ſpoke theſe words, he wheeled about and left him, when preſently Prince <hi>Robert,</hi> who brought up the Reare, advand'd for<g ref="char:EOLhyphen"/>ward, and comming neere the Earle of Eſſex his Souldiers moſt v<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>liantly gave them no other lan<g ref="char:EOLhyphen"/>guage but what bullets did deliver, ſhooting three times at them, whereupon in a moſt ſrerce manner they joyned battell, the Earle of <hi>Eſſex's</hi> ſouldiers maintaining the ſight in ſuch contagious manner ſo that they cut off one whole flanck of the Kings ſouldiers, and ſlew many more of the Kings Ca<g ref="char:EOLhyphen"/>valliers, then they loſt on their own ſides, and had not the ground whereon this battell was fought, beene low and wet, ſo that their ordnance could not bee brought on, the wheeles of the carriage ſinking deepe into the earth, it is very likely that the Kings army had received a very ſharp encoun<g ref="char:EOLhyphen"/>ter, but howſoever from 8. in the morning untill afternoone they made amongſt them a very bloo<g ref="char:EOLhyphen"/>dy ſlaughter, and in the heare of the conflict, it is ſuppoſed that Prince <hi>Robert</hi> comming on ſo farre that he could not retreat back again, was by the
+<pb n="6" facs="tcp:125270:4"/>
+Earl of <hi>Eſſex</hi> his ſouldiers taken priſoner, but in a word, the Earle of <hi>Eſſex</hi> appeared in this great a<g ref="char:EOLhyphen"/>ction moſt full of valour, encouraging his ſouldi<g ref="char:EOLhyphen"/>ers, and bringing them on with ſuch a brave reſo<g ref="char:EOLhyphen"/>lution, as if he had bin confidence of good ſucceſſe, and accordingly hee obtained a moſt proſper out victory, which I doubt not but will bee welcome newes to the Citie of <hi>London,</hi> and therefore you may impart it to your friends for a true relation, which in haſte with my beſt wiſhes I have ſent un<g ref="char:EOLhyphen"/>to you the ſame information being alſo brought up to the Parliament by one <hi>Mrs. Cripſe</hi> a meſſen<g ref="char:EOLhyphen"/>ger to the honourable Houſes of Parliament.</p>
+            <closer>
+               <signed>Your moſt effectionate Friend, Thomas Norwood</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Lords and Commons in Parliament, That houſes for Courts of Guard, and Poſts, and Bars, and claimes be forth with erected, and ſet <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in ſuch places and by Lanes or the pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of St. <hi>Margaret's<g ref="char:punc">▪</g> Weſtminſter,</hi> St. <hi>Martins</hi> in the fields, (in the confines of <hi>Weſtminſter</hi>) St. <hi>Clements Danes<g ref="char:punc">▪</g>
+               </hi> St. <hi>Mary Savoy,</hi> St. Andrewes Holborn, St. <hi>Giles</hi> in the fields, St. <hi>Coven Garden</hi> St. <hi>John-<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> St. <hi>James</hi> at <hi>Clarkenwell</hi> St. <hi>Giles Cripplegune Shorditch, Whitechappelle, Iſlington<g ref="char:punc">▪</g> Mile-end, Southwarke, Lambeth,</hi>
+               <pb n="7" facs="tcp:125270:4"/>
+or any other place or places, as ſhall be thought neceſſerie and convenient for the defence und ſafe guarding of the ſaid pariſhes, places, and by Lanes<g ref="char:punc">▪</g> the charge there of to bee borne by the inhabitants of the ſeverall pariſhes aforeſaid reſpectively, who ſhall be rated rated and aſſeſſed by ſuch perſons reſpectively, as the Lord-Lieutenant of that Countie, or any two of his Deputies ſhall nominate for than purpoſe. And if any ſhall refuſe to contribute their proportion, then the ſaid perſons ſo to be named to rate and aſſeſſe ſhall en<g ref="char:EOLhyphen"/>dite and the names of ſuch refuſers to the Lord-Lieutenant or any two of his Deputies, who are to acquaint one or both houſes of Parliament there with<g ref="char:punc">▪</g> that ſuch <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may be taken there as to them ſhall be thought moſt convenient; And that a competent number of the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Companies of Volunteers in and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing not the ſaid Pariſhes ſhall day and night attend <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Armes in or neere the ſaid Court of Guard <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> power and authority hereby to apprehend <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all ſuſpitious perſons, Ammunition and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> paſſing thorow the ſaid Pariſhes, places, or by-Lanes, or any part of them, untill either of the ſaid houſes of Parliament be made acquainted therewith, and their pleaſure bee further knowne concerning the ſame; And the Captaines and Of<g ref="char:EOLhyphen"/>ficers of the Trained-bands and Voluntiers, And the per<g ref="char:EOLhyphen"/>ſons here under named are required to take care that the premiſes be carefully performed accordingly, which per<g ref="char:EOLhyphen"/>ſons arc to be named by the Lord Licutenant, or any two or more of his Deputy-Lieutenants.</p>
+            <closer>
+               <signed>I. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="8" facs="tcp:125270:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Lune 24. October 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this Day Ordered by the Lords and Com<g ref="char:EOLhyphen"/>mons; That all people within the Cities of Lon<g ref="char:EOLhyphen"/>don and Weſtminſter, and the Priviledged Pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Liberties and Suburbs thereof, and in the Borrough of Southwarke be required to ſhut up their ſhops, and for beare their Trades and other ordi<g ref="char:EOLhyphen"/>narie Imployments, that ſo they may with the gr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter, diligence and freedome for the preſent attend, the de<g ref="char:EOLhyphen"/>fence of the ſaid places and put in Execution and per<g ref="char:EOLhyphen"/>forme ſuch Comments for the defence and ſafety there of as they ſhall from time to time receive from both Houſes of Parliament; the Committed for the defence of the Kingdome, or the Lord Generall or the Lord Major and Committee for the <hi>Militia</hi>
+            </p>
+            <closer>
+               <signed>Joh. Brown, Cler, Parliamentorum.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
